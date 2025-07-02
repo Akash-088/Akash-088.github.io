@@ -13,10 +13,12 @@ The objective was to create and deploy a static website using **GitHub Pages**.
 
 ## 📁 Project Structure
 
+```
 elevatelabsday5/
 ├── index.html # Main HTML page
 ├── style.css # CSS styles
 └── script.js # JavaScript functionality
+```
 
 ---
 
